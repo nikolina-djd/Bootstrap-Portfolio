@@ -1,0 +1,25 @@
+.gradient-background {
+    background: radial-gradient(circle, #5CD2E6 6%, #3085C3, #F4E869, #FAF2D3 86%);
+}
+
+#hero-page {
+    height: 100vh;
+}
+
+
+
+.my-skills-page-bg {
+    background-color:#3085C3;
+    border: 20px;
+    border:  radial-gradient(circle, #5CD2E6 14%, #3085C3, #F4E869, #FAF2D3 65%);
+    
+}
+
+
+
+.project {
+    background-color: #3085C3;
+    color: white;
+}
+
+

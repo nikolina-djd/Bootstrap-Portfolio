@@ -1,0 +1,77 @@
+colors for the page : https://colorhunt.co/palette/faf2d3f4e8693085c35cd2e6
+
+ -> Section- Hero Page 
+Front End Developer
+Hello. I'm a student at Udemy course "The complete 2024 Web Development Bootcamp" eager to learn and delovep my skils as Front-End Developer.
+I'm happily married with two wanderfull children. I have a dog and I appreciate a cup of GOOD COFFEE.. <br />Find out more about me on the links above...
+
+Image arrow:
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-up" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M8 10a.5.5 0 0 0 .5-.5V3.707l2.146 2.147a.5.5 0 0 0 .708-.708l-3-3a.5.5 0 0 0-.708 0l-3 3a.5.5 0 1 0 .708.708L7.5 3.707V9.5a.5.5 0 0 0 .5.5m-7 2.5a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13a.5.5 0 0 1-.5-.5"/>
+</svg>
+
+
+-> My skills page
+My education -
+Bachelor of Economy - Ss.Cyril and Methodius University in Skopje (2002- 2007)
+FullStack Web Developer - Code Academy in Skopje - 2019
+Front End Web Developer - Web Developer Bootcamp Udemy Course - current
+
+
+My working experience
+IT Company: Inet llc (2010-2011):
+Marketing Activities (Preparing Companies News Documents);
+Updating Company WebSite - News Field using Joomla;
+Supplies for Office Materials;
+My Accounting Company: Probiv Iks (2011-2019):
+Providing accountant services for different type of leagal entities: shops, it -companies, associations
+Preparing and submiting Financial Reports before State Institution: Public Revenue Office and Central Register
+
+
+My skills
+
+Organizational Skills
+Customer Servise
+Problem solving
+Analytical thinking
+Attention to details
+
+
+->My project page
+Birthday Invitation Project
+Goal - Organizing html structure
+
+Motivation Meme Project
+Goal:-Centering Div 
+
+Web Design Agency Project
+Html CSS
+Goal- Using Float to position Div
+
+Flag Project
+html CSS
+Goal- Using Position Property to position div on the required place
+
+Pricing Table Project
+Html CSS
+Goal- Using Flex to position div and make it the page responsive
+
+
+Mondrian Project
+Html CSS
+Goal - Using Grid to display divs at the required position
+
+section header  html
+<section id="nav-bar" class="container-fluid nav-background position-fixed mb-5">
+        <div class="container">
+            <header class="d-flex justify-content-center py-3">
+              <ul class="nav nav-pills">
+                <li class="nav-item"><a href="#" class="nav-link text-light lead text-uppercase fw-bold" aria-current="page">Home</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-light lead text-uppercase fw-bold">About me</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-light lead text-uppercase fw-bold">Profesional Summary</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-light lead text-uppercase fw-bold">My Projects</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-light text-uppercase fw-bold">Contact me</a></li>
+              </ul>
+            </header>
+          </div>
+    </section>
